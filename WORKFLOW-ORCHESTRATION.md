@@ -28,36 +28,6 @@ Argo Workflows is a cloud-native workflow engine for orchestrating parallel jobs
 
 ---
 
-### Autosubmit
-Autosubmit is a workflow manager created at BSC for automating and monitoring large-scale numerical experiments using simple configuration files.
-
-- **URL:** https://github.com/BSC-ES/autosubmit
-- **License:** GPL 3.0
-- **Operating system:** Unix/MacOS
-- **Programming language(s):** Python
-
----
-
-### Autosubmit API
-A Python web application providing fast experiment review and monitoring for Autosubmit workflows.
-
-- **URL:** https://github.com/BSC-ES/autosubmit-api
-- **License:** MIT
-- **Operating system:** Unix/MacOS
-- **Programming language(s):** Python
-
----
-
-### Autosubmit GUI
-A graphical interface for managing Autosubmit workflows.
-
-- **URL:** https://earth.bsc.es/gitlab/es/autosubmit-gui
-- **License:** MIT
-- **Operating system:** Unix/MacOS
-- **Programming language(s):** JavaScript
-
----
-
 ### Kubeflow Pipelines
 Kubeflow Pipelines is a Kubernetes-native platform for building, deploying, and managing machine learning pipelines.
 
