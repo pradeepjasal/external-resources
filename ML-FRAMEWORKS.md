@@ -373,3 +373,13 @@ sktime is a unified framework for time series machine learning in Python, coveri
 - **License:** MIT
 - **Operating system:** Unix
 - **Programming language(s):** Python
+
+---
+
+### bitsandbytes
+bitsandbytes is a library providing k‑bit optimizers and quantization-aware primitives that enable memory‑efficient training and inference of large language models.
+
+- **URL:** https://github.com/bitsandbytes-foundation/bitsandbytes
+- **License:** MIT
+- **Operating system:** Unix
+- **Programming language(s):** Python
