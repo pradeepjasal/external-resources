@@ -6,8 +6,8 @@ External tools that provide monitoring, visualization, logging, and observabilit
 
 ## Tools
 
+<!--
 ---
-
 ### TensorBoard (detected via description match)
 TensorBoard provides visualization capabilities for machine learning model training, including loss curves, metrics, histograms, embeddings, and graph structures.
 
@@ -15,3 +15,5 @@ TensorBoard provides visualization capabilities for machine learning model train
 - **License:** Apache 2.0
 - **Operating system:** Cross-platform
 - **Programming language(s):** Python
+
+-->

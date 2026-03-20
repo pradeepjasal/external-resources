@@ -16,8 +16,8 @@ Apache Airflow is a platform to programmatically author, schedule, and monitor w
 - **Operating system:** Cross-platform
 - **Programming language(s):** Python
 
+<!--
 ---
-
 ### Argo Workflows
 Argo Workflows is a cloud-native workflow engine for orchestrating parallel jobs on Kubernetes using containerized steps.
 
@@ -26,8 +26,11 @@ Argo Workflows is a cloud-native workflow engine for orchestrating parallel jobs
 - **Operating system:** Cross-platform (Kubernetes)
 - **Programming language(s):** Go (engine), YAML (workflows)
 
----
 
+-->
+
+<!--
+---
 ### Kubeflow Pipelines
 Kubeflow Pipelines is a Kubernetes-native platform for building, deploying, and managing machine learning pipelines.
 
@@ -36,8 +39,11 @@ Kubeflow Pipelines is a Kubernetes-native platform for building, deploying, and 
 - **Operating system:** Cross-platform (Kubernetes)
 - **Programming language(s):** Python, YAML
 
----
 
+-->
+
+<!--
+---
 ### Luigi
 Luigi is a Python framework for building complex pipelines of batch jobs with automatic dependency resolution.
 
@@ -46,8 +52,11 @@ Luigi is a Python framework for building complex pipelines of batch jobs with au
 - **Operating system:** Cross-platform
 - **Programming language(s):** Python
 
----
 
+-->
+
+<!--
+---
 ### Nextflow
 Nextflow enables scalable and reproducible scientific workflows using containers and a domain-specific language (DSL).
 
@@ -55,6 +64,9 @@ Nextflow enables scalable and reproducible scientific workflows using containers
 - **License:** Apache 2.0
 - **Operating system:** Cross-platform
 - **Programming language(s):** Groovy (DSL), Java
+
+
+-->
 
 ---
 

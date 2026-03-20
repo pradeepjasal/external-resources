@@ -28,8 +28,8 @@ DVC is an open-source tool for versioning datasets and managing machine learning
 - **Operating system:** Unix
 - **Programming language(s):** Python
 
+<!--
 ---
-
 ### Langfuse
 Langfuse is an open-source LLM engineering platform for tracing, evaluating, and debugging LLM-powered applications, providing observability and analytics for prompts and generations.
 
@@ -37,6 +37,9 @@ Langfuse is an open-source LLM engineering platform for tracing, evaluating, and
 - **License:** MIT
 - **Operating system:** Cross-platform
 - **Programming language(s):** Python, TypeScript
+
+
+-->
 
 ---
 

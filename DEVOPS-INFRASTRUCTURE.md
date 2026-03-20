@@ -7,8 +7,8 @@ These tools provide the foundation for reproducible, maintainable, and scalable 
 
 ## Tools
 
+<!--
 ---
-
 ### uv
 uv is an extremely fast Python package and project manager written in Rust, providing isolated environments, dependency resolution, and packaging workflows that integrate well with modern Python development and CI/CD pipelines.
 
@@ -18,3 +18,6 @@ uv is an extremely fast Python package and project manager written in Rust, prov
 - **Programming language(s):** Rust
 
 
+
+
+-->

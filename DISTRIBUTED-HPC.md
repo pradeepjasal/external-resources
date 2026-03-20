@@ -6,8 +6,8 @@ External libraries and toolkits that enable scaling AI and ML workloads across m
 
 ## Tools
 
+<!--
 ---
-
 ### Apache Spark
 Apache Spark is a unified distributed analytics engine for large-scale data processing, streaming, machine learning, and graph computation.
 
@@ -15,6 +15,9 @@ Apache Spark is a unified distributed analytics engine for large-scale data proc
 - **License:** Apache 2.0
 - **Operating system:** Unix/MacOS
 - **Programming language(s):** Python, R, Java, Scala
+
+
+-->
 
 ---
 
@@ -78,8 +81,8 @@ PyTorch XLA connects PyTorch to the XLA compiler to enable efficient training on
 - **Operating system:** Unix
 - **Programming language(s):** Python, C++
 
+<!--
 ---
-
 ### Ray
 Ray is a distributed execution framework for scaling Python and machine learning workloads, including hyperparameter tuning and model serving, across clusters.
 
@@ -87,6 +90,9 @@ Ray is a distributed execution framework for scaling Python and machine learning
 - **License:** Apache 2.0
 - **Operating system:** Unix
 - **Programming language(s):** Python, C++
+
+
+-->
 
 ---
 
@@ -118,8 +124,8 @@ Accelerate provides utilities to easily scale PyTorch training across multiple G
 - **Operating system:** Unix
 - **Programming language(s):** Python
 
+<!--
 ---
-
 ### TensorRT
 TensorRT is NVIDIA’s high-performance deep learning inference platform, including compilers and runtimes for optimizing and deploying models on NVIDIA GPUs.
 
@@ -128,8 +134,11 @@ TensorRT is NVIDIA’s high-performance deep learning inference platform, includ
 - **Operating system:** Unix
 - **Programming language(s):** C++
 
----
 
+-->
+
+<!--
+---
 ### NVIDIA Nsight Systems
 NVIDIA Nsight Systems is a system-wide performance profiling tool to analyze and optimize CPU and GPU utilization for large-scale applications.
 
@@ -137,6 +146,9 @@ NVIDIA Nsight Systems is a system-wide performance profiling tool to analyze and
 - **License:** NVIDIA License
 - **Operating system:** Unix
 - **Programming language(s):** Not applicable
+
+
+-->
 
 ---
 
@@ -148,8 +160,8 @@ FAISS is a library for efficient similarity search and clustering of dense vecto
 - **Operating system:** Unix
 - **Programming language(s):** Python, C++
 
+<!--
 ---
-
 ### Apptainer (Singularity)
 Apptainer, formerly Singularity, is a container technology designed for secure, portable execution of applications on HPC systems and clusters.
 
@@ -157,3 +169,5 @@ Apptainer, formerly Singularity, is a container technology designed for secure, 
 - **License:** BSD-3-Clause
 - **Operating system:** Unix
 - **Programming language(s):** Go
+
+-->

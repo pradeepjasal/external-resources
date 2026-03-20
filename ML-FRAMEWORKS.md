@@ -27,8 +27,8 @@ Anemoi-inference provides tools and utilities for running inference with data-dr
 - **Operating system:** Unix
 - **Programming language(s):** Python
 
+<!--
 ---
-
 ### AMBER
 Amber is a package of molecular simulation programs, including classical molecular dynamics and advanced sampling methods frequently used in computational chemistry and ML-Driven simulation workflows.
 
@@ -37,8 +37,11 @@ Amber is a package of molecular simulation programs, including classical molecul
 - **Operating system:** Cross-platform
 - **Programming language(s):** C++, Python
 
----
 
+-->
+
+<!--
+---
 ### AtmoRep Model
 AtmoRep is an autoregressive ML-based climate emulator capable of generating high-resolution atmospheric dynamics for forecasting and climate studies.
 
@@ -46,8 +49,11 @@ AtmoRep is an autoregressive ML-based climate emulator capable of generating hig
 - **Operating system:** Cross-platform
 - **Programming language(s):** Python
 
----
 
+-->
+
+<!--
+---
 ### Biobb (BioExcel Building Blocks)
 BioBB is a collection of interoperable building blocks for biomolecular simulation workflows, including ML-assisted and structure-based modelling tasks.
 
@@ -56,8 +62,11 @@ BioBB is a collection of interoperable building blocks for biomolecular simulati
 - **Operating system:** Linux/MacOS/Windows
 - **Programming language(s):** Python
 
----
 
+-->
+
+<!--
+---
 ### CC_Processing / CC Toolkit
 Tools for computational chemistry or ML-based processing of chemical data (based on repository contents).
 
@@ -65,6 +74,9 @@ Tools for computational chemistry or ML-based processing of chemical data (based
 - **License:** Not specified
 - **Operating system:** Unix/MacOS
 - **Programming language(s):** Python
+
+
+-->
 
 ---
 
@@ -104,8 +116,8 @@ A next-generation object detection and segmentation library from FAIR for buildi
 - **Operating system:** Cross-platform
 - **Programming language(s):** Python
 
+<!--
 ---
-
 ### GROMACS
 GROMACS is a high-performance molecular dynamics suite frequently used to generate ML training data or as an ML-in-the-loop simulation engine.
 
@@ -113,6 +125,9 @@ GROMACS is a high-performance molecular dynamics suite frequently used to genera
 - **License:** GPL
 - **Operating system:** Linux/MacOS/Windows
 - **Programming language(s):** C++, Python
+
+
+-->
 
 ---
 
@@ -154,8 +169,8 @@ OpenCV is a widely used library for classical computer vision tasks, image proce
 - **Operating system:** Cross-platform
 - **Programming language(s):** C++, Python
 
+<!--
 ---
-
 ### Packing-HPC
 Tools for preparing datasets and assets for HPC-based training workflows (detected from repository metadata).
 
@@ -163,6 +178,9 @@ Tools for preparing datasets and assets for HPC-based training workflows (detect
 - **License:** Not specified
 - **Operating system:** Unix
 - **Programming language(s):** Python
+
+
+-->
 
 ---
 
@@ -204,8 +222,8 @@ ScoreFormer (based on repository description) is a sequence modeling tool using 
 - **Operating system:** Unix
 - **Programming language(s):** Python
 
+<!--
 ---
-
 ### rDock
 rDock is an open-source docking program for virtual screening and binding mode prediction studies in computational drug discovery workflows.
 
@@ -213,6 +231,9 @@ rDock is an open-source docking program for virtual screening and binding mode p
 - **License:** LGPL-3.0
 - **Operating system:** Unix
 - **Programming language(s):** C++, Python
+
+
+-->
 
 ---
 
@@ -224,8 +245,8 @@ A deep learning framework with a large ecosystem for building, training, and dep
 - **Operating system:** Cross-platform
 - **Programming language(s):** C++, Python
 
+<!--
 ---
-
 ### Ultralytics
 A framework for high-performance object detection, segmentation, and pose estimation (YOLO ecosystem).
 
@@ -233,6 +254,9 @@ A framework for high-performance object detection, segmentation, and pose estima
 - **License:** AGPL-3.0
 - **Operating system:** Cross-platform
 - **Programming language(s):** Python
+
+
+-->
 
 ---
 
@@ -374,8 +398,8 @@ sktime is a unified framework for time series machine learning in Python, coveri
 - **Operating system:** Unix
 - **Programming language(s):** Python
 
+<!--
 ---
-
 ### bitsandbytes
 bitsandbytes is a library providing k‑bit optimizers and quantization-aware primitives that enable memory‑efficient training and inference of large language models.
 
@@ -383,3 +407,5 @@ bitsandbytes is a library providing k‑bit optimizers and quantization-aware pr
 - **License:** MIT
 - **Operating system:** Unix
 - **Programming language(s):** Python
+
+-->

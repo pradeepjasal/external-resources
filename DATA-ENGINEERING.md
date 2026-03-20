@@ -6,8 +6,8 @@ External tools for ingesting, transforming, storing, versioning, and querying da
 
 ## Tools
 
+<!--
 ---
-
 ### Intake
 Intake is a data cataloging and loading system in the PyData ecosystem, simplifying the definition and access of datasets for ML and scientific workloads.
 
@@ -16,8 +16,11 @@ Intake is a data cataloging and loading system in the PyData ecosystem, simplify
 - **Operating system:** Cross-platform (Linux, macOS, Windows)
 - **Programming language(s):** Python
 
----
 
+-->
+
+<!--
+---
 ### KvikIO
 KvikIO is a RAPIDS library offering high-performance parallel I/O, enabling fast data movement between storage and GPUs using GPUDirect Storage (GDS).
 
@@ -25,6 +28,9 @@ KvikIO is a RAPIDS library offering high-performance parallel I/O, enabling fast
 - **License:** Apache 2.0
 - **Operating system:** Linux
 - **Programming language(s):** Python
+
+
+-->
 
 ---
 
@@ -36,8 +42,8 @@ lakeFS provides Git-like versioning for object storage systems (S3, GCS, Azure),
 - **Operating system:** Cross-platform
 - **Programming language(s):** Go
 
+<!--
 ---
-
 ### Vams
 Vams is a job controller and data orchestration tool capable of handling datalakes, buckets, and databases during inference and training pipelines.
 
@@ -45,6 +51,9 @@ Vams is a job controller and data orchestration tool capable of handling datalak
 - **License:** Apache 2.0
 - **Operating system:** Linux
 - **Programming language(s):** Java, Go, Typescript
+
+
+-->
 
 ---
 

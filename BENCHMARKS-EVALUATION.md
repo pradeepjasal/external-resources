@@ -6,8 +6,8 @@ External frameworks and suites used to evaluate AI models, compare performance a
 
 ## Tools
 
+<!--
 ---
-
 ### ClimaBench / AtmoRep Benchmarking Suite
 ClimaBench is a benchmarking suite designed for evaluating climate-oriented machine learning models.  
 It provides standardized tasks, datasets, and metrics to measure the performance and credibility of ML models in climate science.  
@@ -17,8 +17,11 @@ It is closely related to AtmoRep, an autoregressive climate emulator used for do
 - **Operating system:** Cross-platform
 - **Programming language(s):** Python
 
----
 
+-->
+
+<!--
+---
 ### EleutherAI LM Evaluation Harness
 The LM Evaluation Harness from EleutherAI is a framework for evaluating language models on a large collection of standardized NLP and reasoning benchmarks.
 
@@ -26,6 +29,9 @@ The LM Evaluation Harness from EleutherAI is a framework for evaluating language
 - **License:** MIT
 - **Operating system:** Cross-platform
 - **Programming language(s):** Python
+
+
+-->
 
 ---
 
