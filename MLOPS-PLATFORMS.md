@@ -39,6 +39,14 @@ Langfuse is an open-source LLM engineering platform for tracing, evaluating, and
 - **Programming language(s):** Python, TypeScript
 
 
+
+
+
+
+
+
+
+
 -->
 
 ---
@@ -52,11 +60,18 @@ MLflow is a platform for managing the end-to-end machine learning lifecycle, inc
 - **Programming language(s):** Python, JavaScript
 
 ---
-
-### Weights & Biases (wandb)
+### wandb
+(Weights & Biases)
 Weights & Biases (wandb) is a tool for tracking machine learning experiments, visualizing metrics, and collaborating on model development.
 
 - **URL:** https://github.com/wandb/wandb
 - **License:** MIT
 - **Operating system:** Unix
 - **Programming language(s):** Python
+
+
+
+
+
+---
+

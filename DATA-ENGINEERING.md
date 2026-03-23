@@ -17,6 +17,14 @@ Intake is a data cataloging and loading system in the PyData ecosystem, simplify
 - **Programming language(s):** Python
 
 
+
+
+
+
+
+
+
+
 -->
 
 <!--
@@ -28,6 +36,14 @@ KvikIO is a RAPIDS library offering high-performance parallel I/O, enabling fast
 - **License:** Apache 2.0
 - **Operating system:** Linux
 - **Programming language(s):** Python
+
+
+
+
+
+
+
+
 
 
 -->
@@ -53,6 +69,14 @@ Vams is a job controller and data orchestration tool capable of handling datalak
 - **Programming language(s):** Java, Go, Typescript
 
 
+
+
+
+
+
+
+
+
 -->
 
 ---
@@ -65,8 +89,8 @@ Xarray provides labeled multidimensional arrays built on top of NumPy, enabling 
 - **Operating system:** Cross-platform
 - **Programming language(s):** Python
 
+<!--
 ---
-
 ### CCrawl Processing Pipeline
 The CCrawl processing pipeline is a download and preprocessing toolchain for Common Crawl dumps, preparing large-scale text corpora for LLM training.
 
@@ -74,6 +98,14 @@ The CCrawl processing pipeline is a download and preprocessing toolchain for Com
 - **License:** Apache 2.0
 - **Operating system:** Unix/MacOS/Windows
 - **Programming language(s):** Python
+
+
+
+
+
+
+
+-->
 
 ---
 
@@ -135,8 +167,8 @@ TensorStore is a library for efficiently reading and writing large multi-dimensi
 - **Operating system:** Unix
 - **Programming language(s):** Python, C++
 
+<!--
 ---
-
 ### Hugging Face Datasets
 Hugging Face Datasets is a library and hub for accessing, streaming, and processing large-scale datasets for machine learning and LLM training.
 
@@ -144,6 +176,13 @@ Hugging Face Datasets is a library and hub for accessing, streaming, and process
 - **License:** Apache 2.0
 - **Operating system:** Unix
 - **Programming language(s):** Python
+
+
+
+
+
+
+-->
 
 ---
 
@@ -165,8 +204,8 @@ Xarray-TensorStore allows opening Zarr arrays into Xarray via TensorStore, provi
 - **Operating system:** Unix
 - **Programming language(s):** Python
 
+<!--
 ---
-
 ### Xarray-Beam
 Xarray-Beam is a library for building Apache Beam pipelines over Xarray datasets, enabling scalable processing of multidimensional scientific data.
 
@@ -174,3 +213,42 @@ Xarray-Beam is a library for building Apache Beam pipelines over Xarray datasets
 - **License:** Apache 2.0
 - **Operating system:** Unix
 - **Programming language(s):** Python
+
+
+
+
+
+-->
+
+---
+
+### NES
+Python I/O library for netCDF files manipulation
+
+- **URL:** https://gitlab.earth.bsc.es/es/nes
+- **License:** Apache-2.0
+- **Operating system:** Unix/MacOS
+- **Programming language(s):** Python
+
+---
+
+### CURATE
+CURATE: Corpus Utility for RAting TExts The Corpus Cleaner consists of several modules corresponding to different steps in our text processing pipeline. Each module is a python script that can be run from the command line. The modules are organized into folders based on their functionality. The root directory contains some utilities relating to the input, internal representation and output of documents. These are used by the rest of modules.
+
+- **URL:** https://github.com/langtech-bsc/CURATE
+- **License:** Apache-2.0
+- **Operating system:** Unix
+- **Programming language(s):** Python
+
+---
+
+### CmmD
+CmmD is an R tool that runs MolTi community detection algorithm (Didier et al. 2018) and computes a multilayer community trajectory analysis (Nunez-Carpintero et al. 2021) for the network community structures obtained. A multilayer community trajectory corresponds for all the nodes of the multiplex network that are consistently found in the same community while changing MolTi's reslution parameter, a value that can be set in order to tune the number of communities found when running the algorithm.
+
+- **URL:** https://github.com/ikernunezca/CmmD
+- **License:** GPL-3.0
+- **Operating system:** Not specified
+- **Programming language(s):** Not specified
+
+---
+

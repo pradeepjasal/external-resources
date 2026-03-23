@@ -38,6 +38,14 @@ Amber is a package of molecular simulation programs, including classical molecul
 - **Programming language(s):** C++, Python
 
 
+
+
+
+
+
+
+
+
 -->
 
 <!--
@@ -48,6 +56,14 @@ AtmoRep is an autoregressive ML-based climate emulator capable of generating hig
 - **License:** AGPL-3.0
 - **Operating system:** Cross-platform
 - **Programming language(s):** Python
+
+
+
+
+
+
+
+
 
 
 -->
@@ -63,6 +79,14 @@ BioBB is a collection of interoperable building blocks for biomolecular simulati
 - **Programming language(s):** Python
 
 
+
+
+
+
+
+
+
+
 -->
 
 <!--
@@ -76,10 +100,18 @@ Tools for computational chemistry or ML-based processing of chemical data (based
 - **Programming language(s):** Python
 
 
+
+
+
+
+
+
+
+
 -->
 
+<!--
 ---
-
 ### Climate-aware LLM
 A set of LLMs fine-tuned with climate-specific information for downstream scientific tasks.
 
@@ -87,14 +119,30 @@ A set of LLMs fine-tuned with climate-specific information for downstream scient
 - **Operating system:** Cross-platform
 - **Programming language(s):** Python
 
----
 
+
+
+
+
+
+-->
+
+<!--
+---
 ### Climate Emulator
 ML-based emulator of climate simulations, enabling fast approximation of high-resolution climate model behaviour.
 
 - **License:** Not specified
 - **Operating system:** Cross-platform
 - **Programming language(s):** Python
+
+
+
+
+
+
+
+-->
 
 ---
 
@@ -125,6 +173,14 @@ GROMACS is a high-performance molecular dynamics suite frequently used to genera
 - **License:** GPL
 - **Operating system:** Linux/MacOS/Windows
 - **Programming language(s):** C++, Python
+
+
+
+
+
+
+
+
 
 
 -->
@@ -180,6 +236,14 @@ Tools for preparing datasets and assets for HPC-based training workflows (detect
 - **Programming language(s):** Python
 
 
+
+
+
+
+
+
+
+
 -->
 
 ---
@@ -233,6 +297,14 @@ rDock is an open-source docking program for virtual screening and binding mode p
 - **Programming language(s):** C++, Python
 
 
+
+
+
+
+
+
+
+
 -->
 
 ---
@@ -254,6 +326,14 @@ A framework for high-performance object detection, segmentation, and pose estima
 - **License:** AGPL-3.0
 - **Operating system:** Cross-platform
 - **Programming language(s):** Python
+
+
+
+
+
+
+
+
 
 
 -->
@@ -408,4 +488,65 @@ bitsandbytes is a library providing k‑bit optimizers and quantization-aware pr
 - **Operating system:** Unix
 - **Programming language(s):** Python
 
+
+
+
+
+
+
+
+
 -->
+
+---
+
+### datasets
+The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools 
+
+- **URL:** https://github.com/huggingface/datasets/tree/main
+- **License:** Apache-2.0
+- **Operating system:** Unix
+- **Programming language(s):** Python
+
+---
+
+### Quantool
+Quantool provides a unified interface for various model quantization methods, allowing users to compress and accelerate machine learning models with ease
+
+- **URL:** https://github.com/langtech-bsc/quantool
+- **License:** Apache-2.0
+- **Operating system:** Unix
+- **Programming language(s):** Python
+
+---
+
+### SEMDRLIB
+SemDRlib is a dedicated DL library that generates diverse redundant versions of image-based DL models and applies a number of user-selected transformations in input images to perform multiple diverse inferences intended to provide semantically-identical, yet not bit-identical, results.
+
+- **URL:** https://doi.org/10.5281/zenodo.12606744
+- **License:** Apache-2.0
+- **Operating system:** Linux
+- **Programming language(s):** C and CUDA
+
+---
+
+### DLETLIB (aka DLLib)
+DLETLib is a dedicated DL Explainable and Traceable library, incorporating a strongly structured and layered software architectural design that allows for the development of DL components following the requiremetns from functional safety standards like ISO 26262, ISO 21448 (SOTIF), IEC 61508 and others.
+
+- **URL:** https://doi.org/10.5281/zenodo.17367226
+- **License:** CC BY 4.0
+- **Operating system:** Linux
+- **Programming language(s):** Python
+
+---
+
+### MaBoSS
+MaBoSS (Markovian Boolean Stochastic Simulator) is a C++ engine and environment for stochastic simulation of Boolean network models using continuous/discrete-time Markov/Gillespie algorithms, with tooling for batch runs, analyses, Python bindings (pyMaBoSS) and a web interface for interactive use.
+
+- **URL:** https://github.com/maboss-bkmc/MaBoSS
+- **License:** BSD-3-Clause
+- **Operating system:** Linux / macOS (Unix)
+- **Programming language(s):** C++ (with Python bindings)
+
+---
+

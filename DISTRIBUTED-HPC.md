@@ -17,6 +17,14 @@ Apache Spark is a unified distributed analytics engine for large-scale data proc
 - **Programming language(s):** Python, R, Java, Scala
 
 
+
+
+
+
+
+
+
+
 -->
 
 ---
@@ -92,6 +100,14 @@ Ray is a distributed execution framework for scaling Python and machine learning
 - **Programming language(s):** Python, C++
 
 
+
+
+
+
+
+
+
+
 -->
 
 ---
@@ -135,6 +151,14 @@ TensorRT is NVIDIA’s high-performance deep learning inference platform, includ
 - **Programming language(s):** C++
 
 
+
+
+
+
+
+
+
+
 -->
 
 <!--
@@ -146,6 +170,14 @@ NVIDIA Nsight Systems is a system-wide performance profiling tool to analyze and
 - **License:** NVIDIA License
 - **Operating system:** Unix
 - **Programming language(s):** Not applicable
+
+
+
+
+
+
+
+
 
 
 -->
@@ -169,5 +201,13 @@ Apptainer, formerly Singularity, is a container technology designed for secure, 
 - **License:** BSD-3-Clause
 - **Operating system:** Unix
 - **Programming language(s):** Go
+
+
+
+
+
+
+
+
 
 -->
