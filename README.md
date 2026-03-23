@@ -103,6 +103,14 @@ These tools form the foundation for scalable, maintainable AI and HPC operations
 
 ---
 
+## 10. **Machine Learning Models**
+
+See: [MACHINE-LEARNING-MODELS.md](MACHINE-LEARNING-MODELS.md)
+
+Open source machine learning models including large language models (LLMs) and specialized scientific models. 
+
+---
+
 # 📬 Contributions
 
 The AI Factory team periodically updates this repository with new external resources of interest.  
